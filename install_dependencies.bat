@@ -14,3 +14,6 @@ python -m pip install -r requirements.txt
 
 REM Установка pre-commit
 pre-commit install
+
+REM Удаление текущего бат-файла
+del %0
