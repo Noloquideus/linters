@@ -11,7 +11,3 @@
 ```
 install_dependencies.bat
 ```
-Для проверки кода не во время коммита
-```
-ckeck_and_fix.bat
-```
